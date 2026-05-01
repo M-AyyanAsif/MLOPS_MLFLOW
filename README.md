@@ -1,2 +1,2 @@
 # MLOPS_MLFLOW
-In this repository we practise end to end mlflow 
+In this repository I practised end to end mlflow using locla server as well as remote using Dagshub.
